@@ -1,8 +1,8 @@
-# Davide Chen — personal homepage
+# ChenDavide — personal homepage
 
-A bilingual, static GitHub Pages homepage with an interactive inverse-kinematics robot arm and filterable public project collection.
+An English-only, static GitHub Pages homepage with an interactive inverse-kinematics robot arm and filterable public project collection.
 
-- English / Chinese switch, with browser-local preference.
+- Clear project categories and direct repository links.
 - Responsive layouts and reduced-motion support.
 - Keyboard-accessible target sliders, plus pointer interaction.
 - No build step or runtime dependencies. Fonts fall back to system fonts.
